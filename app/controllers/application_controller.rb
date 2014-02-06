@@ -6,4 +6,7 @@ class ApplicationController < ActionController::Base
   def test
   end
 
+  def second_test
+  end
+
 end
