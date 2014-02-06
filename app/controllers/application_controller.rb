@@ -7,6 +7,7 @@ class ApplicationController < ActionController::Base
   end
 
   def second_test
+    #Just add a comment
   end
 
 end
