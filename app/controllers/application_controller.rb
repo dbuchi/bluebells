@@ -9,6 +9,7 @@ class ApplicationController < ActionController::Base
   def second_test
     #Just add a comment
     # New comment
+    #creating b2 branch
   end
 
 end
