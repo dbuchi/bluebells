@@ -7,9 +7,7 @@ class ApplicationController < ActionController::Base
   end
 
   def second_test
-    #Just add a comment
-    # New comment
-    #creating b2 branch
+    #This is required to fix ZD1
   end
 
 end
