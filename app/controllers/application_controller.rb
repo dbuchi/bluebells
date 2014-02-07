@@ -7,7 +7,7 @@ class ApplicationController < ActionController::Base
   end
 
   def second_test
-    #Just add a comment
+    #This is required to fix ZD1
   end
 
 end
