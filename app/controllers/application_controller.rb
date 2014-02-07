@@ -7,7 +7,7 @@ class ApplicationController < ActionController::Base
   end
 
   def second_test
-
+    #Fix for ZD3
   end
 
 end
