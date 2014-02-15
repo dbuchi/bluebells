@@ -8,7 +8,6 @@ class ApplicationController < ActionController::Base
 
   def second_test
     #Fix for ZD3
-    # Second comment
   end
 
 end
