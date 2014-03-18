@@ -8,6 +8,7 @@ class ApplicationController < ActionController::Base
 
   def second_test
     #Fix for ZD3
+    #Added checkbox
   end
 
 end
