@@ -7,9 +7,7 @@ class ApplicationController < ActionController::Base
   end
 
   def second_test
-    #Fix for ZD3
-    #Remove comment
-    #Add comments 28
+    #Fix for ZD42
   end
 
 end
